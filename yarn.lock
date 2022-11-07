@@ -1382,54 +1382,54 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ember-data/adapter@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/adapter@npm:4.4.1"
+"@ember-data/adapter@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/adapter@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/private-build-infra": 4.4.1
-    "@ember-data/store": 4.4.1
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
+    "@ember-data/store": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     "@ember/string": ^3.0.0
     ember-auto-import: ^2.2.4
     ember-cli-babel: ^7.26.11
     ember-cli-test-info: ^1.0.0
     ember-cli-typescript: ^5.0.0
-  checksum: f12fafec5df0c6acf556d16909b7650ab46423f8c589157b6dd5279783a203b225b139dbd647767585d97eb1a1a78de9bcc48943b1f43277cd7af4182b880be7
+  checksum: 63fb6981fac3577749d5598b24191175fa01129c973cbf5142aeb61e78d532f912888ec9f1e916dad06153c2890fe6109c2b31ba29f69e8478a9170f24884e77
   languageName: node
   linkType: hard
 
-"@ember-data/canary-features@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/canary-features@npm:4.4.1"
+"@ember-data/canary-features@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/canary-features@npm:4.4.0-alpha.7"
   dependencies:
     ember-cli-babel: ^7.26.11
     ember-cli-typescript: ^5.0.0
-  checksum: 85d930c6daeeb4efe8ad04adab0162711f5dbf579a52a289d754449405aa0ec663978cf13cd32455da892c8f24549777442daf7c0447a8d06b15c43f84257cfe
+  checksum: 38c858f0c7b37032b0112eb81c5dd0a0869aff354df0e8325c34177468bf41fd22b2bf0acacac6ca9571087d7a77e27dd375f84afd0ebfb1b80af11400561234
   languageName: node
   linkType: hard
 
-"@ember-data/debug@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/debug@npm:4.4.1"
+"@ember-data/debug@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/debug@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/private-build-infra": 4.4.1
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     "@ember/string": ^3.0.0
     ember-auto-import: ^2.2.4
     ember-cli-babel: ^7.26.11
     ember-cli-test-info: ^1.0.0
     ember-cli-typescript: ^5.0.0
-  checksum: e2fba238c47c49fec8fa5729a5d0b27c4f224ca74446460fc62365f70ef2b60b1593402a21f263d66eabd5d4f70062ddcb40c7b5ddfe4a48fd6f6c3a9bf20427
+  checksum: bfaea2b1221b9e757a19bc64097039f7fa921ab20c0dd8a95be0932de7111c40c752de9ed2eed56e9f93c12332d9b9eb3008f051f55ebc8347c3bde373f9434f
   languageName: node
   linkType: hard
 
-"@ember-data/model@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/model@npm:4.4.1"
+"@ember-data/model@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/model@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/canary-features": 4.4.1
-    "@ember-data/private-build-infra": 4.4.1
-    "@ember-data/store": 4.4.1
+    "@ember-data/canary-features": 4.4.0-alpha.7
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
+    "@ember-data/store": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     "@ember/string": ^3.0.0
     ember-auto-import: ^2.2.4
@@ -1440,16 +1440,16 @@ __metadata:
     ember-cli-typescript: ^5.0.0
     ember-compatibility-helpers: ^1.2.0
     inflection: ~1.13.1
-  checksum: 67b30a67762f1b1f3224bfc062a11a4bcfac32bab83186b91ad177c8f0f2be3cd8cb29a95de05bb90cde118a4e57d187ab7e979ed24b5c2ae66ab6857d8ab60e
+  checksum: 2308d3323b5ce721ec9585b466e90f6cf400be87e781a51d3c4d51367f3e77b45c97b91433d3add29d8a7daf7aed7a722ae6784aef32bc4a3d4427c5af99ea4c
   languageName: node
   linkType: hard
 
-"@ember-data/private-build-infra@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/private-build-infra@npm:4.4.1"
+"@ember-data/private-build-infra@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/private-build-infra@npm:4.4.0-alpha.7"
   dependencies:
     "@babel/plugin-transform-block-scoping": ^7.16.7
-    "@ember-data/canary-features": 4.4.1
+    "@ember-data/canary-features": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     babel-plugin-debug-macros: ^0.3.4
     babel-plugin-filter-imports: ^4.0.0
@@ -1474,23 +1474,23 @@ __metadata:
     rsvp: ^4.8.5
     semver: ^7.1.3
     silent-error: ^1.1.1
-  checksum: 19d79f20e4e5ecb0a931ccbefed14a66725ad8b0dd7881ba889f6aedfc984ae9f1357e83475f88635a7789da707c7e5722e6dc502235b71d8d6092fa3b0defc5
+  checksum: 0110836df393f648c7853d187def1cc5ed3a4e27de849add1eec062c53d94894cb8392aa9c6b363180dce4d8c69399999594b78e02ad2a3cb1ce6a55fc67ffab
   languageName: node
   linkType: hard
 
-"@ember-data/record-data@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/record-data@npm:4.4.1"
+"@ember-data/record-data@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/record-data@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/canary-features": 4.4.1
-    "@ember-data/private-build-infra": 4.4.1
-    "@ember-data/store": 4.4.1
+    "@ember-data/canary-features": 4.4.0-alpha.7
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
+    "@ember-data/store": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     ember-auto-import: ^2.2.4
     ember-cli-babel: ^7.26.11
     ember-cli-test-info: ^1.0.0
     ember-cli-typescript: ^5.0.0
-  checksum: f601961c7245d6313785393675b462e2558ac5273bca82eecf430054655ef5c1bf880f1b8413514fc0a078d2905be145c72c923a725edace24072df09eabd544
+  checksum: be394edc1f612672fd81918045b1e963a38089b5a9462f0fa2278f9cfc2f2acc7e7ff6dd5ddf7543eba4898bfc37d89564ba05ea3840939dec7c8ab94dad238a
   languageName: node
   linkType: hard
 
@@ -1501,26 +1501,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ember-data/serializer@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/serializer@npm:4.4.1"
+"@ember-data/serializer@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/serializer@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/private-build-infra": 4.4.1
-    "@ember-data/store": 4.4.1
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
+    "@ember-data/store": 4.4.0-alpha.7
     ember-auto-import: ^2.2.4
     ember-cli-babel: ^7.26.11
     ember-cli-test-info: ^1.0.0
     ember-cli-typescript: ^5.0.0
-  checksum: fa9225f70716bb144adaf5aa050a1e67f4c1259e1a28d66b965767668238f2d92ecad50c5b689257e4f2fd5307eed4fe7a22e7a3f21ba35f4b1cdc453782ab7d
+  checksum: 45bb77b584c881fecb0be285c9ec699c93c89dcf7d2428a6b5e04d171d7baca1a1360b7f81d5b30f13e0877089806e33c57861e359f9472dcfd9fabadcefef02
   languageName: node
   linkType: hard
 
-"@ember-data/store@npm:4.4.1":
-  version: 4.4.1
-  resolution: "@ember-data/store@npm:4.4.1"
+"@ember-data/store@npm:4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "@ember-data/store@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/canary-features": 4.4.1
-    "@ember-data/private-build-infra": 4.4.1
+    "@ember-data/canary-features": 4.4.0-alpha.7
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
     "@ember/string": ^3.0.0
     "@glimmer/tracking": ^1.0.4
     ember-auto-import: ^2.2.4
@@ -1528,7 +1528,7 @@ __metadata:
     ember-cli-babel: ^7.26.11
     ember-cli-path-utils: ^1.0.0
     ember-cli-typescript: ^5.0.0
-  checksum: dc8c84706a1db8bc3fd7c5b751a3ec2b6b32b0672e59654818a1656d5ec08fd48f1f205f6bd15a658457a633e07cada5b3245334605637a8a4c6e159c2570598
+  checksum: 8a87c84032b6390570be81a5efd8712d40f1c3d8722faa3e12f7748c01d033c1f0f6bf7e04c944e1d2c860b608ad2e0ad5dbe3afb679f4f2f4ac36c824e4efb5
   languageName: node
   linkType: hard
 
@@ -6332,17 +6332,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-data@npm:~4.4.0":
-  version: 4.4.1
-  resolution: "ember-data@npm:4.4.1"
+"ember-data@npm:v4.4.0-alpha.7":
+  version: 4.4.0-alpha.7
+  resolution: "ember-data@npm:4.4.0-alpha.7"
   dependencies:
-    "@ember-data/adapter": 4.4.1
-    "@ember-data/debug": 4.4.1
-    "@ember-data/model": 4.4.1
-    "@ember-data/private-build-infra": 4.4.1
-    "@ember-data/record-data": 4.4.1
-    "@ember-data/serializer": 4.4.1
-    "@ember-data/store": 4.4.1
+    "@ember-data/adapter": 4.4.0-alpha.7
+    "@ember-data/debug": 4.4.0-alpha.7
+    "@ember-data/model": 4.4.0-alpha.7
+    "@ember-data/private-build-infra": 4.4.0-alpha.7
+    "@ember-data/record-data": 4.4.0-alpha.7
+    "@ember-data/serializer": 4.4.0-alpha.7
+    "@ember-data/store": 4.4.0-alpha.7
     "@ember/edition-utils": ^1.2.0
     "@ember/string": ^3.0.0
     "@glimmer/env": ^0.1.7
@@ -6351,7 +6351,7 @@ __metadata:
     ember-cli-babel: ^7.26.11
     ember-cli-typescript: ^5.0.0
     ember-inflector: ^4.0.1
-  checksum: a232f1eeac80ca1d0c1d33a24f5e25a545c99695866485922aa7828b314bef4976ab3e2bdbb18528cdd1c97f98ffd1fdeb4471af654fa9f263f181d7e2a543a9
+  checksum: 5e378a0c4fac8c14d06c72bfbfc2c88617bce61928c6526491d86d6ad01bd95e71bacf74ee15c0c4f3a20f90dcdbaa850d7b535b9ddbfd8d45ca6f990476f0ab
   languageName: node
   linkType: hard
 
@@ -7813,7 +7813,7 @@ __metadata:
     ember-cli-mirage: ^2.4.0
     ember-cli-sri: ^2.1.1
     ember-cli-terser: ^4.0.2
-    ember-data: ~4.4.0
+    ember-data: v4.4.0-alpha.7
     ember-export-application-global: ^2.0.1
     ember-fetch: ^8.1.1
     ember-load-initializers: ^2.1.2
